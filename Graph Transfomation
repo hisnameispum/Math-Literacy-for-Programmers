@@ -1,5 +1,5 @@
-| Function Notation | Type of Transformation | Change to cordinate point |
-|-------------------|------------------------|---------------------------|
-|                   |                        |                           |
-|                   |                        |                           |
-|                   |                        |                           |
+| Function Notation | Type of Transformation          | Change to cordinate point |
+|-------------------|---------------------------------|---------------------------|
+|      f(x) +d      | Vertical translation up d point |     (x,y) -> (x, y+d)     |
+|                   |                                 |                           |
+|                   |                                 |                           |
